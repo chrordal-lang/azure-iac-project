@@ -1,7 +1,3 @@
 Date: 13.03.2026
-Activity: Created a GitHub repository and project structure.
-Reflection: Chose Terraform to make the project more relevant for DevOps and cloud operations.
-
-Dato: 14.03.2026
-Oppgave: Opprettet Terraform provider og første resource group.
-Refleksjon: Starter med minimal infrastruktur før videre utvidelse.
+Activity: Created a GitHub repository and project structure. Added Terraform provider and initial resource group configuration. Initialized Terraform and validated the setup. Attempted terraform plan but encountered an Azure tenant access issue (AADSTS50020) and contacted the instructor to clarify access.
+Reflection: Good progress setting up the Terraform workflow. The configuration works locally, but deployment is currently blocked by Azure tenant access. Learned more about the interaction between Terraform, Azure CLI and authentication during the process.
